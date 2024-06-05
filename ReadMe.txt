@@ -1,4 +1,4 @@
-This Project was created by Paul Blumenthal using Unity Editor 2021.2.16f1.
+This project was created by Paul Blumenthal using Unity Editor 2021.2.16f1.
 
 Project/ contains everything required to import this project.
 Screenshots/ contains screenshots of the built project running.
